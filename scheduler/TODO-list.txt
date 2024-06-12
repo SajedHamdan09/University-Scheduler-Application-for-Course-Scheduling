@@ -1,0 +1,6 @@
+~~1. handle 2 teachers for same course:
+    make new teacher with their hours and days combined
+
+~2. handle reshceduling unscheduled courses:
+    implement perfectschedule 
+    and only reschedule if perfectschedule is maintained
